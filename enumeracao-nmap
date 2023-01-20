@@ -1,0 +1,8 @@
+sudo nmap -O 172.16.32.139
+sudo nmap -O 172.16.32.139
+
+sudo nmap -Pn -sS -sC --script exploit scanme.nmap.org
+sudo nmap -Pn -sS -sC --script metasploit-info.nse scanme.nmap.org
+
+sudo nmap -p 80 --script dns-brute.nse nmap.org
+

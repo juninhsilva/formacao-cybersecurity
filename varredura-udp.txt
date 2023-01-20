@@ -1,0 +1,4 @@
+Scanning 172.16.32.139 [1000 ports]
+Completed UDP Scan at 19:00, 1.23s elapsed (1000 total ports)
+Nmap scan report for 172.16.32.139
+Not shown: 998 closed ports

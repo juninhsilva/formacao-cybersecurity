@@ -1,0 +1,7 @@
+A - N/H 255.0.0.0/8
+B - N/H 255.255.0.0/16
+C - N/H 255.255.255.0/24
+
+nmap -v 172.16.32.0/25
+nmap -v -sn 172.16.32.128/25 | grep 172 > varredura.txt
+nmap -v -sU 172.16.32.129 | grep 172 > varredura-udp.txt
