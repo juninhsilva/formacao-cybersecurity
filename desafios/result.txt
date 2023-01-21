@@ -1,0 +1,25 @@
+[*] WE GOT A HIT! Printing the output:
+PARAM: jazoest=21062
+PARAM: lsd=AVoOTuWbpxg
+PARAM: display=
+PARAM: isprivate=
+PARAM: return_session=
+POSSIBLE USERNAME FIELD FOUND: skip_api_login=
+PARAM: signed_next=
+PARAM: trynum=1
+PARAM: timezone=
+PARAM: lgndim=
+PARAM: lgnrnd=115323_8-v2
+PARAM: lgnjs=n
+POSSIBLE USERNAME FIELD FOUND: email=juninhsilva
+POSSIBLE PASSWORD FIELD FOUND: pass=123
+POSSIBLE USERNAME FIELD FOUND: login=1
+PARAM: prefill_contact_point=
+PARAM: prefill_source=
+PARAM: prefill_type=
+PARAM: first_prefill_source=
+PARAM: first_prefill_type=
+PARAM: had_cp_prefilled=false
+POSSIBLE PASSWORD FIELD FOUND: had_password_prefilled=false
+PARAM: ab_test_data=
+[*] WHEN YOU'RE FINISHED, HIT CONTROL-C TO GENERATE A REPORT.
